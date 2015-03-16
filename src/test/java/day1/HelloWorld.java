@@ -29,7 +29,7 @@ public class HelloWorld {
 	
 	//static block
 	static {
-		System.out.println("Hi");
+		System.out.println("Hi my name is raj");
 	}
 	
 	           
