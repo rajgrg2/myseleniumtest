@@ -22,7 +22,7 @@ public class HelloWorld {
 		System.out.println("substract two numbers");
 	}
 	
-	//normal method
+	//non static method
 	public void add(){
 		System.out.println("adding two numbers");
 	}
